@@ -1,3 +1,5 @@
+we are qa branch
+
 **GitHub Mastery Course Readme**
 
 Bienvenue au cours de maîtrise de GitHub ! Ce cours est conçu pour vous fournir les compétences et connaissances essentielles nécessaires pour utiliser efficacement GitHub pour vos projets, que vous soyez débutant ou que vous cherchiez à améliorer votre expertise. Grâce à une combinaison de tutoriels, d'exercices et d'exemples du monde réel, vous apprendrez comment exploiter les fonctionnalités de GitHub pour optimiser votre flux de développement, collaborer avec vos coéquipiers et contribuer à des projets open source.
